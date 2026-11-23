@@ -1,2 +1,2 @@
-# Sanika-Ghogale
+# My Engineering Journey
 My Coding &amp; Engineering Projects
